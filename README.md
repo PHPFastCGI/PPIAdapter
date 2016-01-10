@@ -2,7 +2,7 @@
 
 [@ppi]: http://www.ppi.io/ "PPI Framework"
 
-[![Join the chat at https://gitter.im/PHPFastCGI/PPIAdapter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PHPFastCGI/PPIAdapter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/PHPFastCGI/PPIAdapter.svg)](https://gitter.im/PHPFastCGI/PPIAdapter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Latest Stable Version](https://poser.pugx.org/phpfastcgi/expressive-adapter/v/stable)](https://packagist.org/packages/phpfastcgi/expressive-adapter)
 [![Build Status](https://travis-ci.org/PHPFastCGI/PPIAdapter.svg?branch=v0.5.0)](https://travis-ci.org/PHPFastCGI/PPIAdapter)
 [![Coverage Status](https://coveralls.io/repos/PHPFastCGI/PPIAdapter/badge.svg?branch=master&service=github)](https://coveralls.io/github/PHPFastCGI/PPIAdapter?branch=master)
