@@ -1,0 +1,27 @@
+{
+    "name": "phpfastcgi/ppi-adapter",
+    "description": "A PHPFastCGI adapter for the PPI Framework Engine",
+    "keywords": ["php", "ppi", "fastcgi", "server", "fast cgi", "daemon"],
+    "homepage": "http://phpfastcgi.github.io/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Carter",
+            "email": "andrewcarter1992@gmail.com"
+        },
+        {
+          "name": "Vítor Brandão",
+          "email": "vitor@noiselabs.org",
+          "homepage": "http://noiselabs.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "ppi/framework": "dev-master",
+        "phpfastcgi/fastcgi-daemon": "^0.7"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=4.0",
+        "satooshi/php-coveralls": "dev-master"
+    }
+}
